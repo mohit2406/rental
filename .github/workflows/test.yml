@@ -23,4 +23,4 @@ jobs:
         pip install pandas scikit-learn joblib flask flake8 pytest
     - name: Test with pytest
       run: |
-        pytest tests/
+        pytest
