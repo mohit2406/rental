@@ -1,0 +1,7 @@
+flask
+pandas
+pandas
+scikit-learn
+joblib
+pytest
+pydantic

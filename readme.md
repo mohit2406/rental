@@ -1,0 +1,3 @@
+#This repository contains monthly data on electricity prices, sales, and revenue in the United States, disaggregated by state and sector (residential, commercial, industrial, and other) from 2001 onwards. The dataset includes variables such as the average price per kilowatt-hour (kWh), total revenue, total sales, and the number of customers (where available).
+
+##This dataset can be used for predictive modeling tasks, such as predicting the average price per kilowatt-hour using machine learning techniques. A RandomForest model is a suitable choice for such predictive tasks due to its ability to handle complex relationships and feature importance analysis.
